@@ -11,7 +11,7 @@ Designed a modern, intuitive, and user-centric UI/UX for Odera Academy, an advan
 [www.oderaacademy.com](https://www.oderaacademy.com)
 
 ## 🎨 Figma Design
-[View Figma UI/UX](https://www.figma.com/design/APJ8ZxVRGZi5Rygbd79Png/Odera-Academy-Website?node-id=0-1&t=eAIQpsypV2nBHigJ-1)
+[View Odera Academy Website Figma UI/UX](https://www.figma.com/design/APJ8ZxVRGZi5Rygbd79Png/Odera-Academy-Website?node-id=0-1&t=eAIQpsypV2nBHigJ-1)
 
 ## 📌 Key Features
 - Clean, modern interface with a focus on user engagement
